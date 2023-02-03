@@ -1,0 +1,301 @@
+Semester,Subject,Questions,weightage,Unit,Difficult
+4,JAVA,"Describe  Java Virtual Machine(JVM) Architecture.",K1,1,1
+4,JAVA,"Describe primitive type conversion and casting in java. ",K1,1,1
+4,JAVA,"Describe the structure of the Java Program.",K1,1,1
+4,JAVA,"Describe the history and features of java.",K1,1,2
+4,JAVA,"Define Variable.",K1,1,2
+4,JAVA,"Define Constant.",K1,1,2
+4,JAVA,"Define String class.",K1,1,3
+4,JAVA,"Define datatypes in java.",K1,1,3
+4,JAVA,"Define Scanner class.",K1,1,3
+4,JAVA,"Explain concepts of Object Oriented Programming.",K2,1,1
+4,JAVA,"Explain about String class in java with suitable example.",K2,1,1
+4,JAVA,"Explain primitive type conversion in java with example.",K2,1,1
+4,JAVA,"Explain Structure of Java Program with example.",K2,1,2
+4,JAVA,"Explain types of variables.",K2,1,2
+4,JAVA,"Explain applications of java.",K2,1,2
+4,JAVA,"Explain features of java.",K2,1,3
+4,JAVA,"Explain execution steps of java program.",K2,1,3
+4,JAVA,"Explain fundamentals of java.",K2,1,3
+4,JAVA,"Develop a program to print your biodata form in proper format and write down the execution steps.",K3,1,1
+4,JAVA,"Develop a program on String class in java.",K3,1,1
+4,JAVA,"Develop a program to print the given number is even or odd.",K3,1,1
+4,JAVA,"Develop a program to print the given number is prime or not.",K3,1,2
+4,JAVA,"Develop a program to print largest of three numbers.",K3,1,2
+4,JAVA,"Develop a program to print sum of two numbers.",K3,1,2
+4,JAVA,"Develop a program to print fibonacci series.",K3,1,3
+4,JAVA,"Develop a program to print factorial of a given number.",K3,1,3
+4,JAVA,"Develop a program to print smallest of three numbers.",K3,1,3
+4,JAVA,"Define class and object.",K1,2,1
+4,JAVA,"Define method.",K1,2,1
+4,JAVA,"Define Constructor.",K1,2,1
+4,JAVA,"Define static keyword in java.",K1,2,2
+4,JAVA,"Define this Keyword.",K1,2,2
+4,JAVA,"Define 1-D array in java.",K1,2,2
+4,JAVA,"Define 2-D array in java.",K1,2,3
+4,JAVA,"Define command line argument in java.",K1,2,3
+4,JAVA,"Define garbage collector.",K1,2,3
+4,JAVA,"Illustrate the usage of static keyword with suitable examples.",K2,2,1
+4,JAVA,"Explain Nested classes with suitable examples.",K2,2,1
+4,JAVA,"Explain about Arrays in java with suitable example.",K2,2,1
+4,JAVA,"Illustrate Constructor Overloading with an example.",K2,2,2
+4,JAVA,"Explain Command line argument with suitable example.",K2,2,2
+4,JAVA,"Explain Garbage Collector with an example.",K2,2,2
+4,JAVA,"Explain this Keyword with an example.",K2,2,3
+4,JAVA,"Explain importance of static keyword in java with suitable examples.",K2,2,3
+4,JAVA,"Explain instance method with suitable example.",K2,2,3
+4,JAVA,"Develop a program to accept an integer as a command line argument and find the factorial of it.",K3,2,1
+4,JAVA,"Develop a program to perform sorting of array elements in ascending order.",K3,2,1
+4,JAVA,"Construct a prgram to illustrate the usage of jagged array.",K3,2,1
+4,JAVA,"Construct a prgram to illustrate the usage of class and object.",K3,2,2
+4,JAVA,"Construct a prgram to illustrate the usage of instance method.",K3,2,2
+4,JAVA,"Develop a program to perform addition of two integers,addition of three integers,addition of two integers and one float using constructors.",K3,2,2
+4,JAVA,"Develop a program to find min element of an array by using method.",K3,2,3
+4,JAVA,"Construct a prgram to illustrate the usage of Anonymous Array.",K3,2,3
+4,JAVA,"Construct a prgram to illustrate the usage of copying and cloning of arrays.",K3,2,3
+4,JAVA,"Define Inheritance.",K1,3,1
+4,JAVA,"Define super Keyword.",K1,3,1
+4,JAVA,"Define final Keyword.",K1,3,1
+4,JAVA,"Define Method Overriding.",K1,3,2
+4,JAVA,"Define Abstract class.",K1,3,2
+4,JAVA,"Define Interface.",K1,3,2
+4,JAVA,"Define packages in java.",K1,3,3
+4,JAVA,"Define class path.",K1,3,3
+4,JAVA,"Define Exception Handling in java.",K1,3,3
+4,JAVA,"Explain about different types of inheritance in java.",K2,3,1
+4,JAVA,"Explain the procedure of creating and accessing packages in java.",K2,3,1
+4,JAVA,"Explain about interfaces in java with suitable examples.",K2,3,1
+4,JAVA,"Explain about Abstract class with a suitable example.",K2,3,2
+4,JAVA,"Explain about class path with suitable example.",K2,3,2
+4,JAVA,"Explain about importance of try,catch and throw  with example.",K2,3,2
+4,JAVA,"Explain final keyword in java with an example.",K2,3,3
+4,JAVA,"Differentitate Method Overloading and Method overiding.",K2,3,3
+4,JAVA,"Differentitate Abstract and final Keyword.",K2,3,3
+4,JAVA,"Construct a program to achieve method overriding in java.",K3,3,1
+4,JAVA,"Construct a program on multiple catch blocks.",K3,3,1
+4,JAVA,"Construct a program to achieve multiple inheritance.",K3,3,1
+4,JAVA,"Take an abstract class with the name Branch can consists abstract method percentage and take three subclasses in it named as CSE,ECE,EEE by overriding method percentage to show 92% for CSE , 91% for ECE and 90% for EEE.",K3,3,2
+4,JAVA,"Take three different classes to print 1 to 10 natural numbers,even ,odd and print them as multiple inheritance.",K3,3,2
+4,JAVA,"Construct a program to achieve multiple inheritance in java with help of interface.",K3,3,2
+4,JAVA,"Construct a program on final keyword.",K3,3,3
+4,JAVA,"Construct a program on dynamic method dispatch.",K3,3,3
+4,JAVA,"Construct a program on call by reference.",K3,3,3
+4,JAVA,"Define Multithreading.",K1,4,1
+4,JAVA,"Define Multiprocessing.",K1,4,1
+4,JAVA,"Define Thread.",K1,4,1
+4,JAVA,"List some methods in thread class.",K1,4,2
+4,JAVA,"Define Streams in files concept.",K1,4,2
+4,JAVA,"Define byte steam.",K1,4,2
+4,JAVA,"Define char stream.",K1,4,3
+4,JAVA,"List out the advantages of Multithreading.",K1,4,3
+4,JAVA,"List out the disadvantages of multiprocessing.",K1,4,3
+4,JAVA,"Explain the procedure of creating and accessing packagesin java.",K2,4,1
+4,JAVA,"Explain about Thread Synchronization with a suitable example.",K2,4,1
+4,JAVA,"Explain about Thread lifecycle.",K2,4,1
+4,JAVA,"Explain about Thread Priorities with a suitable example.",K2,4,2
+4,JAVA,"Differentiate Process based and Thread based process.",K2,4,2
+4,JAVA,"Explain the procedure to set and get thread names.",K2,4,2
+4,JAVA,"Explain about communication between two threads.",K2,4,3
+4,JAVA,"Is it possible to achieve true parallelism using multithreading.What are the limitations in it?",K2,4,3
+4,JAVA,"How to create and run Threads.Explain it with example.",K2,4,3
+4,JAVA,"Develop a program to read  data from a file. ",K3,4,1
+4,JAVA,"Develop a program to count number of characters,words and lines in a file.",K3,4,1
+4,JAVA,"Develop a program to randomly access data in files.",K3,4,1
+4,JAVA,"Develop a program to write data into a file.",K3,4,2
+4,JAVA,"Develop a program on multithreading using runnable interface.",K3,4,2
+4,JAVA,"Develop a program to copy data from one file to other file.",K3,4,2
+4,JAVA,"Develop a program to create a file.",K3,4,3
+4,JAVA,"Develop a program to delete a file.",K3,4,3
+4,JAVA,"Develop a program on synchronized method.",K3,4,3
+4,JAVA,"Define AWT.",K1,5,1
+4,JAVA,"Define Applets.",K1,5,1
+4,JAVA,"Define Swings.",K1,5,1
+4,JAVA,"List out few components of applets.",K1,5,2
+4,JAVA,"List out few components of swings.",K1,5,2
+4,JAVA,"Define adapter class.",K1,5,2
+4,JAVA,"Define Event delegation model.",K1,5,3
+4,JAVA,"List out Event classes in applets.",K1,5,3
+4,JAVA,"List out Event listener in applets.",K1,5,3
+4,JAVA,"Explain about parameter passing in applets.",K2,5,1
+4,JAVA,"Explain Event Delegation Model.",K2,5,1
+4,JAVA,"Describe applet lifecycle with a neat diagram.",K2,5,1
+4,JAVA,"Differentiate between AWT and Swings.",K2,5,2
+4,JAVA,"Differentiate between Applet and Swings.",K2,5,2
+4,JAVA,"Explain the functionality of Jcomponent & Jpannel.",K2,5,2
+4,JAVA,"Briefly explain about the following a)check box b) component event c) focus event d) Jbutton",K2,5,3
+4,JAVA,"What are layout manager? Discuss the layout java supports ?",K2,5,3
+4,JAVA,"Breifly explain the components of AWT.",K2,5,3
+4,JAVA,"Develop registration form using AWT.",K3,5,1
+4,JAVA,"Develop a program to handle different Mouse events.",K3,5,1
+4,JAVA,"Develop a program to handle different Key events.",K3,5,1
+4,JAVA,"Develop a program to create  a  JScrollbar and display the x,y coordinates using Java Swings.",K3,5,2
+4,JAVA,"Develop a program to handle different MouseMotion events.",K3,5,2
+4,JAVA,"Develop a program to handle different Item events.",K3,5,2
+4,JAVA,"Develop a program on adapter class.",K3,5,3
+4,JAVA,"Develop a program on applet class .",K3,5,3
+4,JAVA,"Construct a program to illustrate the usage of methods in Graphic class .",K3,5,3
+4,"Computer Organization and Architecture","Outline functional concepts of computer? ",K1,1,1
+4,"Computer Organization and Architecture","State the following addressing modes 
+
+a. Register b. Indirect c. Relative
+",K1,1,1
+4,"Computer Organization and Architecture","Describe the following addressing modes with an example?
+a. Direct b. Base register c. register indirect
+",K1,1,1
+4,"Computer Organization and Architecture","Outline basic operational concepts?",K1,1,2
+4,"Computer Organization and Architecture","Define Bus structure.",K1,1,2
+4,"Computer Organization and Architecture","Define Registers.",K1,1,2
+4,"Computer Organization and Architecture","Define address space.",K1,1,3
+4,"Computer Organization and Architecture","Define memory address.",K1,1,3
+4,"Computer Organization and Architecture","A computer has 32 MB (megabytes) of memory. How many bits
+are needed to address any single byte in memory?",K1,1,3
+4,"Computer Organization and Architecture","Discuss about basic input/output operations? ",K2,1,1
+4,"Computer Organization and Architecture"," Explain about different types of Instructions?",K2,1,1
+4,"Computer Organization and Architecture","Discuss in detail about single bus structure?",K2,1,1
+4,"Computer Organization and Architecture","Illustrate a program to evaluate the following expression
+X=(A+B)*(C+D) in single accumulator and stack organization.",K2,1,2
+4,"Computer Organization and Architecture"," Draw the basic functional units of computer.",K2,1,2
+4,"Computer Organization and Architecture"," Describe the basic operations performed by the processor.",K2,1,2
+4,"Computer Organization and Architecture","Discuss how Addressing modes are involved in fetching operands with any two 
+examples.",K2,1,3
+4,"Computer Organization and Architecture"," Illustrate a program to evaluate the statement C= (A+B)*(C+D) in register, single
+accumulator and stack organization.",K2,1,3
+4,"Computer Organization and Architecture","Write a program to evaluate the statement C=A+B by using three address, two 
+address, one address, and zero address?",K2,1,3
+4,"Computer Organization and Architecture","Discuss the straight-line sequence of instructions execution while branch instruction
+encounters for consider the task of adding a list of n numbers?",K3,1,1
+4,"Computer Organization and Architecture","Discuss the straight-line sequence of instructions execution for consider the task of
+C<− A+B?",K3,1,1
+4,"Computer Organization and Architecture","Write short notes on?
+i)Register Transfer Notation ii)Assembly Language Notation?",K3,1,1
+4,"Computer Organization and Architecture","Define the function of following processor register
+i)MAR ii)MDR",K3,1,2
+4,"Computer Organization and Architecture","Explain Indexed addressing with the help of diagram in detail.",K3,1,2
+4,"Computer Organization and Architecture","Explain any two addressing modes  in detail.",K3,1,2
+4,"Computer Organization and Architecture","Explain about instruction set architecture.",K3,1,3
+4,"Computer Organization and Architecture","Explain about register transfer notation with suitable example.",K3,1,3
+4,"Computer Organization and Architecture","Explain about  multiple bus structure with diagram.",K3,1,3
+4,"Computer Organization and Architecture","State interrupt hardware and enabling/disabling interrupts?",K1,2,1
+4,"Computer Organization and Architecture","Explain the following techniques of handling multiple devices?
+a. Simultaneous Interrupts b. Vectored Interrupt",K1,2,1
+4,"Computer Organization and Architecture","Outline asynchronous bus?",K1,2,1
+4,"Computer Organization and Architecture","Describe about accessing I/O devices?",K1,2,2
+4,"Computer Organization and Architecture","Outline synchronous bus? ",K1,2,2
+4,"Computer Organization and Architecture","Define Daisy Chain.",K1,2,2
+4,"Computer Organization and Architecture","Define Subroutine.",K1,2,3
+4,"Computer Organization and Architecture","Define ISR.",K1,2,3
+4,"Computer Organization and Architecture","Define Interrupt and its types.",K1,2,3
+4,"Computer Organization and Architecture","Explain about different types of Instructions? ",K2,2,1
+4,"Computer Organization and Architecture","Discuss in detail about DMA transfer? ",K2,2,1
+4,"Computer Organization and Architecture"," Explain the following techniques of handling multiple devices?
+a. Interrupt Nesting b.Polling",K2,2,1
+4,"Computer Organization and Architecture"," Explain about DMA and the uses of DMA controller in computer system? ",K2,2,2
+4,"Computer Organization and Architecture","Write short notes on Interrupt Hardware?",K2,2,2
+4,"Computer Organization and Architecture"," Define Bus Arbitration? Discuss the centralized & distributed arbitration.",K2,2,2
+4,"Computer Organization and Architecture","What do mean by polling and Vectored Interrupts?",K2,2,3
+4,"Computer Organization and Architecture","Explain about Direct Memory Access and the uses of DMA controllers in
+computer system.",K2,2,3
+4,"Computer Organization and Architecture","Write short notes? i) Daisy Chain ii) Interrupt Nesting",K2,2,3
+4,"Computer Organization and Architecture","Describe the interrupt? Explain with example the transfer of control
+through the use of interrupts?",K3,2,1
+4,"Computer Organization and Architecture","Define the question give rises when multiple number of devices capable
+of initiating interrupts?",K3,2,1
+4,"Computer Organization and Architecture","Describe the Bus protocol? With neat diagram, explain about how data is
+read in synchronous & Asynchronous bus?",K3,2,1
+4,"Computer Organization and Architecture","Describe the model of I/O module.",K3,2,2
+4,"Computer Organization and Architecture","Explain interrupt driven I/O along with the design issues that arise in its
+implementation.",K3,2,2
+4,"Computer Organization and Architecture","Explain about different kinds of  handling methods.",K3,2,2
+4,"Computer Organization and Architecture","Explain about Simultaneous request in detail.",K3,2,3
+4,"Computer Organization and Architecture","Explain about  different elements of bus design.",K3,2,3
+4,"Computer Organization and Architecture","Differentiate synchronous and Asynchronous bus.",K3,2,3
+4,"Computer Organization and Architecture","Describe the following chips to construct main memory
+
+a. RAM b. ROM
+",K1,3,1
+4,"Computer Organization and Architecture"," Find the performance measures of cache memory?",K1,3,1
+4,"Computer Organization and Architecture","Outline Memory Hierarchy?",K1,3,1
+4,"Computer Organization and Architecture"," State about match logic of associative memory with neat diagram?",K1,3,2
+4,"Computer Organization and Architecture","Define secondary memory.",K1,3,2
+4,"Computer Organization and Architecture","Define primary memory.",K1,3,2
+4,"Computer Organization and Architecture","Define cache hit.",K1,3,3
+4,"Computer Organization and Architecture","List out applications of associative memory.",K1,3,3
+4,"Computer Organization and Architecture","Define addressable memory.",K1,3,3
+4,"Computer Organization and Architecture"," Illustrate 1024X16 RAM and 512X16 ROM memory address mapping with
+128X16 RAM and 256X16 ROM
+",K2,3,1
+4,"Computer Organization and Architecture"," Explain different mapping techniques of cache memory?",K2,3,1
+4,"Computer Organization and Architecture","Explain about hardware circuit for associative memory? ",K2,3,1
+4,"Computer Organization and Architecture","Predict the devices under auxiliary memory? ",K2,3,2
+4,"Computer Organization and Architecture","Describe the Memory Address Map to assign address space in the system?",K2,3,2
+4,"Computer Organization and Architecture","Discuss in detail about Auxiliary memory.",K2,3,2
+4,"Computer Organization and Architecture"," What do you mean by associative memory? Give applications of associative memory.",K2,3,3
+4,"Computer Organization and Architecture","Explain why associative memory is called as content addressable memory and give its 
+read and write operation principles.",K2,3,3
+4,"Computer Organization and Architecture","Describe the match logic in associative memory with circuit diagram?",K2,3,3
+4,"Computer Organization and Architecture","Explain various mapping procedures of cache memory with an example.",K3,3,1
+4,"Computer Organization and Architecture"," Describe the performance measures of cache memory.",K3,3,1
+4,"Computer Organization and Architecture","With neat diagram, explain the design of 2048 × 8 memory module with 128×8 RAM
+ chips?",K3,3,1
+4,"Computer Organization and Architecture"," Illustrate 1024X16 RAM and 512X16 ROM memory address mapping with 128X16
+RAM and 256X16 ROM chips.",K3,3,2
+4,"Computer Organization and Architecture","Explain how memories attached to the CPU.",K3,3,2
+4,"Computer Organization and Architecture","Explain memory management system in detail.",K3,3,2
+4,"Computer Organization and Architecture","Illustrate the difference between DRAM and SRAM.",K3,3,3
+4,"Computer Organization and Architecture","Explain about Magnetic disk with the help of diagram.",K3,3,3
+4,"Computer Organization and Architecture","Explain about hardware organization and its block diagram.",K3,3,3
+4,"Computer Organization and Architecture","Describe in detail about register transfer operations by the processor? ",K1,4,1
+4,"Computer Organization and Architecture","State about micro instructions?",K1,4,1
+4,"Computer Organization and Architecture","Describe in detail about fetching data from memory by the processor?",K1,4,1
+4,"Computer Organization and Architecture","Outline the steps to execute a complete instruction?",K1,4,2
+4,"Computer Organization and Architecture","Define single bus organization.",K1,4,2
+4,"Computer Organization and Architecture","Define execution phase.",K1,4,2
+4,"Computer Organization and Architecture","What do you mean by processor-memory interfaces?",K1,4,3
+4,"Computer Organization and Architecture","What are the needs of ALU?",K1,4,3
+4,"Computer Organization and Architecture","Draw structure of single bus organization.",K1,4,3
+4,"Computer Organization and Architecture"," Differentiate hardwired and micro programmed control unit?",K2,4,1
+4,"Computer Organization and Architecture","Discuss about multiple bus organization?",K2,4,1
+4,"Computer Organization and Architecture","Explain about micro program sequencing? ",K2,4,1
+4,"Computer Organization and Architecture","Discuss about hardwired control unit? ",K2,4,2
+4,"Computer Organization and Architecture","Explain the processor organization with an example.",K2,4,2
+4,"Computer Organization and Architecture","Explain about single bus organization.",K2,4,2
+4,"Computer Organization and Architecture","Discuss about register transfers with the help of diagram?",K2,4,3
+4,"Computer Organization and Architecture","Illustrate branch instructions with suitable example.",K2,4,3
+4,"Computer Organization and Architecture","Discuss complete processor with block diagram.",K2,4,3
+4,"Computer Organization and Architecture","Explain about hardwared control and its units.",K3,4,1
+4,"Computer Organization and Architecture","Explain about micro programed control in detail?",K3,4,1
+4,"Computer Organization and Architecture","Explain about micro program sequencing?",K3,4,1
+4,"Computer Organization and Architecture","Explain about micro instruction with next address field?",K3,4,2
+4,"Computer Organization and Architecture","explain about Partial Format for the
+Microinstruction?",K3,4,2
+4,"Computer Organization and Architecture","Explain how to fetch a word from memory?",K3,4,2
+4,"Computer Organization and Architecture","Explain how to perform arthimetic operation in a memory?",K3,4,3
+4,"Computer Organization and Architecture","Explain procedure to  execute an intruction?",K3,4,3
+4,"Computer Organization and Architecture","Explain advantages of multiple bus organization?",K3,4,3
+4,"Computer Organization and Architecture","List techniques of Flynn’s classification?",K1,5,1
+4,"Computer Organization and Architecture","Outline clusters?",K1,5,1
+4,"Computer Organization and Architecture","State shared memory multi processors?",K1,5,1
+4,"Computer Organization and Architecture","Outline hardware multi threading?",K1,5,2
+4,"Computer Organization and Architecture","What is a register file?",K1,5,2
+4,"Computer Organization and Architecture","Define SISD?",K1,5,2
+4,"Computer Organization and Architecture","Define MIMD?",K1,5,3
+4,"Computer Organization and Architecture","Define SIMD?",K1,5,3
+4,"Computer Organization and Architecture","Define SPMD?",K1,5,3
+4,"Computer Organization and Architecture","Explain about instruction hazards?",K2,5,1
+4,"Computer Organization and Architecture"," Explain the basic concepts of pipelining and compare it with sequence processing?",K2,5,1
+4,"Computer Organization and Architecture","Explain about data hazards?",K2,5,1
+4,"Computer Organization and Architecture","Explain about message passing muti processors?",K2,5,2
+4,"Computer Organization and Architecture","What is the binary representation of instructions?",K2,5,2
+4,"Computer Organization and Architecture","Which access does a register file rely on to properly function?",K2,5,2
+4,"Computer Organization and Architecture","Which feature of the IBM 360/91 was incorporated into the majority of microprocessors developed in the 21st century?",K2,5,3
+4,"Computer Organization and Architecture","illustrate thr difference between multicore and multiprocessor.",K2,5,3
+4,"Computer Organization and Architecture","Which term refers to the same instruction applied to multiple data streams?",K2,5,3
+4,"Computer Organization and Architecture","Which two elements are required to implement R-Format arithmetic logic unit (ALU) operations?",K3,5,1
+4,"Computer Organization and Architecture","What is a Datapath with the help of diagram?",K3,5,1
+4,"Computer Organization and Architecture","Which component of a computer moderates the action of its other components?",K3,5,1
+4,"Computer Organization and Architecture","what are the Dependencies in a pipelined processor?",K3,5,2
+4,"Computer Organization and Architecture","explain different types of Data Hazards.",K3,5,2
+4,"Computer Organization and Architecture","Explain about flynn's classification – SISD, MIMD, SIMD, SPMD",K3,5,2
+4,"Computer Organization and Architecture","discuss the role of cache memory.",K3,5,3
+4,"Computer Organization and Architecture","Explain the pipeline performance with the help of diagrams",K3,5,3
+4,"Computer Organization and Architecture","Explain dynamic branch prediction and 2-state machine algorithm",K3,5,3
